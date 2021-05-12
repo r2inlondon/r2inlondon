@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Junior Full-Stack Web Developer who loves the internet and I like to create fun things in it.
+I am a Junior Full-Stack Web Developer who loves to create fun things in the internet.
 
 My primary skillsets are in Ruby, JavaScript, Rails, PostgreSQL, HTML, CSS, Bootstrap, SQL. I'm also expanding my skillset by Learning React. 
 
