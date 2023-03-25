@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am a Junior Web Developer who loves building things, creating new stuff, learning new technologies and working with others to bring brilliant products and features to life.
-
-My primary skill set are in JavaScript, React, Redux, CSS, SASS, Figma, Git, GitHub, Tailwind, Bootstrap, Ruby on Rails, PostgreSQL and Firebase.
+I'm a passionate web developer who loves creating awesome web applications using modern technologies. Making clean, efficient, and maintainable code is my jam, and I'm committed to delivering top-quality products. I'm a team player with excellent communication skills, and I love working with others to create fun and innovative solutions. Let's make something amazing together! 
 
 
 
